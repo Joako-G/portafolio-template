@@ -68,7 +68,7 @@ body {
 
 .content {
   display: flex;
-  height: 140vh;
+  height: 120vh;
   width: 100%;
   flex-direction: row;
 }
