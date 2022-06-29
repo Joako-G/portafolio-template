@@ -11,13 +11,17 @@ Sin más que decir, te deseamos éxitos en este camino de formación! :clap:
 
 Para iniciar con este proyecto debes tener lo siguiente:
 
-- Visual Studio Code Instalado
-- Git Instalado
-- No necesitas cuenta de GitHub pero la necesitarás mas adelante. Te recomiendo que te vayas registrando.
+<ul>
+  <li>Visual Studio Code Instalado</li>
+  <li>Git Instalado</li>
+  <li>No necesitas cuenta de GitHub pero la necesitarás mas adelante. Te recomiendo que te vayas registrando.</li>
+  <li>Fourth item</li>
+</ul>
 
 ## Iniciar el proyecto
 
 Una recomendación nuestra es que uses la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
+# :rocket:
 
 ## Manejo de problemas
 
