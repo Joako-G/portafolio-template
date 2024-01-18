@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
 
 :root {
-  --primary-color:rgb(221, 71, 71);
-  --primary-color-dark: red;
-  --accent-color: rgb(252, 252, 252);
+  --primary-color:#A27B5C;
+  --primary-color-dark: #2C3639;
+  --accent-color: #DCD7C9;
 }
 
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth;  
 }
 
 body {
